@@ -39,5 +39,5 @@ m5 now has indirect relation to m1,m2,m4
 which can be traversed through m3 but it is not saved in db
 
 so basically we only save direct relations
-what are direct relations
-spouses, children, parents 
+what are direct relations?
+spouses, children, parents, siblings 
