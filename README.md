@@ -1,6 +1,6 @@
 # eshop - A simple and fast e-store 
 
-[Shop Homepage](https://github.com/imvision/eshop) is a basic HTML online store built in CodeIgniter and MySQL created by [Ali Roshan](https://github.com/imvision).
+[eShop](https://github.com/imvision/eshop) is a basic HTML online store built in CodeIgniter and MySQL created by [Ali Roshan](https://github.com/imvision).
 
 ## Getting Started
 
